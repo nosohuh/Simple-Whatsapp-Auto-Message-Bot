@@ -2,6 +2,13 @@
   <img src="https://github.com/user-attachments/assets/20d77be0-0f99-48f2-a6b7-1e023294e043" alt="Image" class="image" />
   <h1 class="heading">Simple WP Bot</h1>
 </div>
+## Video
+
+
+
+https://github.com/user-attachments/assets/6d852492-e9d1-451d-861d-cf2727d33385
+
+
 
 This project is a simple WhatsApp bot that automates sending messages and interacting with WhatsApp Web. The main features of the bot include sending automated messages, logging in with QR code, defining phone number sets, and automatic timing to prevent blocking by WhatsApp.
 
