@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#noty_layout_topLeft {
+  top: 30px !important;
+  left: 10px !important;
+  right: auto !important;
+  bottom: auto !important;
+}
+
+#noty_layout_topRight {
+  top: 20px !important;
+  right: 20px !important;
+  left: auto !important;
+  bottom: auto !important;
+}
+
+#noty_layout_bottomLeft {
+  bottom: 20px !important;
+  left: 20px !important;
+}
+
+#noty_layout_bottomRight {
+  bottom: 20px !important;
+  right: 20px !important;
+}
+.noty_button {
+  margin-right: 10px; /* Butonlar arasında boşluk */
+}
